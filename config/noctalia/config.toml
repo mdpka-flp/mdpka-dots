@@ -1,0 +1,6 @@
+[plugins.enabled]
+audio_switcher = true
+bongocat = true
+ncs_visualizer = true
+mpvpaper = true
+wallpaper_depth = true
