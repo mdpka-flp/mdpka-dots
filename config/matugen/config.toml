@@ -1,0 +1,5 @@
+[config]
+
+[templates.hyprland]
+input_path = '/home/mdpka/.config/matugen/templates/hypr-colors.lua'
+output_path = '/home/mdpka/.config/hypr/conf/colors.lua'

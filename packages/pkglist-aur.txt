@@ -1,0 +1,16 @@
+carbonyl-bin
+cbonsai
+debtap
+fireplace-git
+github-desktop-bin
+happ-desktop-bin
+kvantum-theme-breeze-git
+lavat-git
+opencode-beta
+osu-lazer-bin
+termius
+tg-ws-proxy-bin
+unityhub
+untrunc-git
+visual-studio-code-bin
+yandex-music

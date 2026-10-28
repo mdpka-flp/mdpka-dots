@@ -11,6 +11,7 @@ base
 base-devel
 bash-completion
 bind
+blender
 blueman
 bluez
 bluez-hid2hci
@@ -43,9 +44,7 @@ cachyos-wallpapers
 cachyos-zsh-config
 cameractrls
 cantarell-fonts
-carbonyl-bin
 cava
-cbonsai
 chwd
 cliphist
 cmake
@@ -54,7 +53,6 @@ cpupower
 cryptsetup
 cups
 cups-pdf
-debtap
 device-mapper
 diffutils
 dmidecode
@@ -80,13 +78,11 @@ feh
 ffmpegthumbnailer
 firefox
 firefox-i18n-ru
-fireplace-git
 flameshot
 fsarchiver
 fuse2
 fuzzel
 git
-github-desktop-bin
 glances
 greetd
 gst-libav
@@ -97,7 +93,6 @@ gst-plugins-good
 gst-plugins-ugly
 gutenprint
 guvcview
-happ-desktop-bin
 hdparm
 htop
 hwdetect
@@ -113,7 +108,6 @@ inetutils
 intel-lpmd
 intel-ucode
 iwd
-java-20-jdk
 jdk21-openjdk
 jdk25-openjdk
 jfsutils
@@ -125,8 +119,6 @@ krita
 ksnip
 kvantum
 kvantum-qt5
-kvantum-theme-breeze-git
-lavat-git
 less
 lib32-mesa
 lib32-opencl-mesa
@@ -182,10 +174,8 @@ obs-studio-browser
 obsidian
 openbsd-netcat
 opencl-mesa
-opencode-beta
 openssh
 os-prober
-osu-lazer-bin
 otf-font-awesome
 pacman-contrib
 papirus-icon-theme
@@ -216,6 +206,7 @@ rebuild-detector
 reflector
 ripgrep
 river-classic
+rocm-hip-runtime
 rocm-opencl-runtime
 rofi
 rsync
@@ -241,10 +232,8 @@ swayosd
 sysfsutils
 system-config-printer
 termdown
-termius
 testdisk
 texinfo
-tg-ws-proxy-bin
 thunar
 timeshift
 ttf-bitstream-vera
@@ -258,9 +247,7 @@ ttf-opensans
 tty-clock
 ufw
 ufw-extras
-unityhub
 unrar
-untrunc-git
 unzip
 usb_modeswitch
 usbutils
@@ -268,12 +255,10 @@ uwsm
 vde2
 vesktop-bin
 vim
-visual-studio-code-bin
 vlc
 vlc-plugins-all
 vulkan-headers
 vulkan-radeon
-wallust
 waypaper
 wget
 which
@@ -293,7 +278,6 @@ xl2tpd
 xorg-fonts-misc
 xorg-xrandr
 xorg-xwayland
-yandex-music
 yay
 zen-browser-bin
 zip
